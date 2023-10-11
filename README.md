@@ -42,7 +42,7 @@ The `bootstrap.py` module serves as the initialization point for the application
 
 2. Navigate to the project directory:
    ```bash
-   cd event-driven-architecture-python
+   cd Python-Event-Based-Architecture
 
 3. Run the application:
    ```bash

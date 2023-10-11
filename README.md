@@ -38,7 +38,7 @@ The `bootstrap.py` module serves as the initialization point for the application
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-repo/event-driven-architecture-python.git
+   git clone git@github.com:DelivceNdegwa/Python-Event-Based-Architecture.git
 
 2. Navigate to the project directory:
    ```bash

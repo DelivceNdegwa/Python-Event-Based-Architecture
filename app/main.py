@@ -1,3 +1,3 @@
 from . import services
 
-services.register_user("Njagi", "MyPassword")
+services.register_user("TestUser", "TestPassword")

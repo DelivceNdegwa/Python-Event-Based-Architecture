@@ -27,7 +27,7 @@ The `events.py` module provides a simple yet powerful event system. It defines t
 
 - `register_event(event_name, event_function)`: Registers event functions for a specific event name.
 
-- `dispatch(event_name, *args, **kwargs)`: Dispatches an event by name, triggering all registered event functions for that event.
+- `dispatch(event_name)`: Dispatches an event by name, triggering all registered event functions for that event.
 
 ## Initialization and Usage
 
